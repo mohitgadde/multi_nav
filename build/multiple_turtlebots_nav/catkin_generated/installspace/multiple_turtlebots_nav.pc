@@ -1,0 +1,8 @@
+prefix=/home/mohit/catkin_turtle/install
+
+Name: multiple_turtlebots_nav
+Description: Description of multiple_turtlebots_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
